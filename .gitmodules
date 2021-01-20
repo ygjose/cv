@@ -1,0 +1,3 @@
+[submodule "path_to_submodule"] 
+  path = cv/themes 
+  url = https://github.com/ineesalmeida/almeida-cv.git
