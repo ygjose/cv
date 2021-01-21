@@ -2,7 +2,7 @@ baseURL = "https://cv.gangyao.me/"
 languageCode = "en-us"
 defaultContentLanguage = "en"
 theme = "almeida-cv"
-title = "Gang Yao - CV"
+title = "CV | Gang Yao"
 
 [params]
 colorDark = "#666"
