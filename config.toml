@@ -2,6 +2,7 @@ baseURL = "https://cv.gangyao.me/"
 languageCode = "en-us"
 defaultContentLanguage = "en"
 theme = "almeida-cv"
+googleAnalytics = "UA-187919588"
 title = "CV | Gang Yao"
 
 [params]
