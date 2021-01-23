@@ -11,10 +11,10 @@
                 <div class="education__header">
                     <h3 class="education__title">{{ .Course | safeHTML }}</h3>
                 </div>
-                <h4 class="education__place">{{ .Place | safeHTML }}{{ range .Badges }}
-                    <li class="experience__badge">{{ . }}</li>{{ end }}</h4>
+                <h4 class="education__place">{{ .Place | safeHTML }}</h4>
                 <h4 class="education__date">{{ .Date | safeHTML }}</h4>
-                <div class="education__description">{{ .Details | safeHTML }}</div>
+                <div class="education__description">{{ .Details | safeHTML }}{{ range .Badges }}
+                    <li class="experience__badge">{{ . }}</li>{{ end }}</div>
             </div>
         {{ end }}
     </div>
