@@ -12,29 +12,17 @@ BasicInfo:
     - Icon: fas fa-map-marker-alt
       Info: Spain
 
-Profile: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Profile: Gang Yao is a four-year fully-funded (by China Scholarship Council) PhD student at the University of Murcia (Spain), and a member of the Spanish Association for Corpus Linguistics (AELINCO). Currently he is doing a research stay at the Universitat Politècnica de València (Spain). His research interests include corpus linguistics, Spanish as a Foreign Language, and academic writing.
 
 Experience:
-  - Employer: Super Cool Company
-    Place: Oxford, UK
+  - Employer: Shanghai International Studies University
+    Place: Shanghai, China
     Positions:
-      - Title: Software Engineer
-        Date: Jan 2020 - Present
+      - Title: MA in Spanish Language & Literature
+        Date: Sep 2015 - Jun 2018
         Details:
-          - Arcu vitae elementum curabitur vitae nunc sed velit
-          - Viverra aliquet eget sit amet tellus cras adipiscing
-          - Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat
-          - Nisl tincidunt eget nullam non nisi est
-          - Sed viverra tellus in hac.
-          - Lorem ipsum dolor sit amet, consectetur adipiscing elit
-        Badges: ['Python', 'Django', 'OOP', 'Javascript', 'HTML', 'CSS', 'Agile']
-      - Title: Software Tester
-        Date: Mar 2019 - Jan 2020
-        Details:
-          - Nisl tincidunt eget nullam non nisi est
-          - Sed viverra tellus in hac.
-          - Lorem ipsum dolor sit amet, consectetur adipiscing elit
-        Badges: ['Python', 'BDD', 'Selenium', 'OOP', 'Agile']
+          - "GPA: 3.83/4.0"
+        #Badges: ['Python', 'Django', 'OOP', 'Javascript', 'HTML', 'CSS', 'Agile']
   - Employer: Another super cool company
     Place: Lisbon, PT
     Positions:
@@ -45,7 +33,7 @@ Experience:
           - Nisl tincidunt eget nullam non nisi est
           - Sed viverra tellus in hac.
           - Lorem ipsum dolor sit amet, consectetur adipiscing elit
-        Badges: ['Python', 'HTML', 'CSS', 'C#/Unity']
+        #Badges: ['Python', 'HTML', 'CSS', 'C#/Unity']
   - Employer: Institute of Neural Engineering
     Place: Graz, AT
     Positions:
@@ -56,59 +44,57 @@ Experience:
           - Viverra aliquet eget sit amet tellus cras adipiscing
           - Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat
           - Nisl tincidunt eget nullam non nisi est
-        Badges: ['Python', 'MATLAB', 'Data Processing', 'Paradigm Design']
+        #Badges: ['Python', 'MATLAB', 'Data Processing', 'Paradigm Design']
 
+        
 Education:
-  - Course: BSc & MSc in Biomedical Engineering and Biophysics
-    Place: University of Lisbon
-    Date: Sep 2012 - Nov 2017
-    Details: Specialised in data analysis
+  - Course: "Book review of Specialised English: New Directions in ESP and EAP Research and Practice"
+    Place: Language Value, 12(1), 148-153. Jun 2020
+    #Date: Jun 2020
+    # Details: "GPA: 3.83/4.0"
+    Badges: ['Journal article']
+
+  - Course: MA in Theoretical & Applied Linguistics
+    Place: Universitat Pompeu Fabra (Barcelona)
+    Date: Sep 2016 - Jul 2017
+    Details: "GPA: 8.40/10.0"
+  
+#  - Course: BA in Spanish Language & Literature
+#    Place: Heilongjiang University (Harbin)
+#    Date: Aug 2011 - Jun 2015
+#    Details: "GPA: 9.052/10.0 (Honors degree)"
 
 Skills:
   - Family: Programming
     Items:
-      - Python
-      - HTML (including Jinja)
-      - Javascript
-      - CSS
-      - SASS
-      - SQL
-      - C#
-      - Bash
-      - MATLAB
-  - Family: Frameworks
+      - Python (beginner)
+  - Family: Statistics
     Items:
-      - Django
-      - Flask
-      - Hugo
-      - React
+      - SPSS
+      - Jamovi
+      - Jasp
+      - R (beginner)
   - Family: Developer Tools
     Items:
-      - Git
-      - Docker
-      - Jenkins
-      - AWS
+      - Git (basic)
   - Family: Misc
     Items:
-      - Adobe Tools
-      - LaTeX
+      - MS Office
+      - Markdown
 
 Languages:
   - Name: Chinese
     Level: Native
   - Name: English
-    Level: 7.5(IELTS)
+    Level: 7.5 (IELTS-2019)
   - Name: Spanish
-    Level: C1(DELE)
+    Level: C1 (DELE-2014)
 
 Diplomas:
-  - ISTQB Tester Certification (2019)
-  - English Cambridge CAE (2009)
+  - 普通话二甲 (2013)
+  - 全国计算机等级考试二级 (2014)
 
 Interests:
-  - Bouldering
-  - Cooking
-  - Windsurfing
-  - Bossa Nova
-  - Design
-  - Languages
+  - Software Website
+  - Hiking
+  - Movies
