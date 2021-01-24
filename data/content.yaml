@@ -2,15 +2,14 @@ BasicInfo:
   FirstName: Gang
   LastName: Yao
   Photo: img/avatar.jpg
-  Contacts:
-#    - Icon: fas fa-phone
-#      Info: +44 123 456 789
-    - Icon: fas fa-envelope
-      Info: gangyao[@]um[.]es
-    - Icon: fas fa-globe
-      Info: gangyao.me
-    - Icon: fas fa-map-marker-alt
-      Info: Spain
+
+Contacts:
+  - Icon: fas fa-envelope
+    Info: gangyao[@]um[.]es
+  - Icon: fas fa-globe
+    Info: gangyao.me
+  - Icon: fas fa-map-marker-alt
+    Info: Spain
 
 Profile: Gang Yao is a four-year fully-funded (by China Scholarship Council) PhD student at the University of Murcia (Spain), and a member of the Spanish Association for Corpus Linguistics (AELINCO). Currently he is doing a research stay at the Universitat Politècnica de València (Spain). His research interests include corpus linguistics, Spanish as a Foreign Language, and academic writing.
 
@@ -23,27 +22,21 @@ Experience:
         Details:
           - "GPA: 3.83/4.0"
         #Badges: ['Python', 'Django', 'OOP', 'Javascript', 'HTML', 'CSS', 'Agile']
-  - Employer: Another super cool company
-    Place: Lisbon, PT
+  - Employer: Universitat Pompeu Fabra
+    Place: Barcelona, Spain
     Positions:
-      - Title: Flow Cytometry Resource Specialist
-        Date: Jan 2018 - Mar 2019
+      - Title: MA in Theoretical & Applied Linguistics
+        Date: Sep 2016 - Jul 2017
         Details:
-          - Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat
-          - Nisl tincidunt eget nullam non nisi est
-          - Sed viverra tellus in hac.
-          - Lorem ipsum dolor sit amet, consectetur adipiscing elit
+          - "GPA: 8.40/10.0"
         #Badges: ['Python', 'HTML', 'CSS', 'C#/Unity']
-  - Employer: Institute of Neural Engineering
-    Place: Graz, AT
+  - Employer: Heilongjiang University
+    Place: Harbin, China
     Positions:
-      - Title: Master's Thesis Research Intern
-        Date: Oct 2016 - Jun 2017
+      - Title: BA in Spanish Language & Literature
+        Date: Aug 2011 - Jun 2015
         Details:
-          - Arcu vitae elementum curabitur vitae nunc sed velit
-          - Viverra aliquet eget sit amet tellus cras adipiscing
-          - Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat
-          - Nisl tincidunt eget nullam non nisi est
+          - "GPA: 9.052/10.0 (Honors degree)"
         #Badges: ['Python', 'MATLAB', 'Data Processing', 'Paradigm Design']
 
         
@@ -54,10 +47,11 @@ Education:
     Details: Language Value, 12(1), 148-153. Jun 2020
     Badges: ['Journal article']
 
-  - Course: MA in Theoretical & Applied Linguistics
-    Place: Universitat Pompeu Fabra (Barcelona)
-    Date: Sep 2016 - Jul 2017
-    Details: "GPA: 8.40/10.0"
+  - Course: Vocabulary learning through data-driven learning in the context of Spanish as a foreign language
+    #Place: Universitat Pompeu Fabra (Barcelona)
+    #Date: Sep 2016 - Jul 2017
+    Details: Research in Corpus Linguistics, 7, 18-46. Nov 2019
+    Badges: ['Journal article']
   
 #  - Course: BA in Spanish Language & Literature
 #    Place: Heilongjiang University (Harbin)
