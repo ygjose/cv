@@ -1,12 +1,15 @@
 .interests {
-    display: block;
-    -moz-column-count: 2;
-    column-count: 2;
-    width: 100%;
-    text-align: right;
-    @include avoid-break;
+    &__item {
+        display: table;
+        width: 100%;
+    }
 
-    &__item:nth-child(n+4) {
-        text-align: left;
+    &__name,
+    &__level {
+        display: table-cell;
+        width: 50%;
+    }
+    &__level {
+        text-align: right;
     }
 }
