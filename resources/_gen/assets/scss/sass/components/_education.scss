@@ -3,4 +3,21 @@
         display: block;
         @include avoid-break;
     }
+    
+    &__badges {
+        display: block;
+        text-align: right;
+        margin-top: 0.5rem;
+        margin-bottom: 0.5rem;
+    }
+
+    &__badge {
+        font-size: 0.9rem;
+        font-weight: 400;
+        display: inline-block;
+        background-color: $color-primary;
+        color: $color-primary-text;
+        border-radius: 1rem;
+        padding: 0.1rem 0.6rem;
+    }
 }

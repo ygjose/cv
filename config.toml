@@ -4,8 +4,6 @@ defaultContentLanguage = "en"
 theme = "almeida-cv"
 googleAnalytics = "UA-187919588-1"
 title = "CV | Gang Yao"
-# Get last modified date for content from Git?
-enableGitInfo = true
 
 [params]
 colorDark = "#666"
@@ -16,6 +14,3 @@ colorPrimaryText = "#fff"
 colorRightColumnBackground = "#f5f5f5"
 colorSecondary = "#aaa"
 pages = 2
-
-# Enable users to switch between day and night mode?
-day_night = true

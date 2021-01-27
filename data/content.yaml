@@ -53,10 +53,11 @@ Education:
     Details: Research in Corpus Linguistics, 7, 18-46. Nov 2019
     Badges: ['Journal article']
   
-#  - Course: BA in Spanish Language & Literature
+  - Course: 语义场视阈下西班牙语和汉语的表达习惯与翻译
 #    Place: Heilongjiang University (Harbin)
 #    Date: Aug 2011 - Jun 2015
-#    Details: "GPA: 9.052/10.0 (Honors degree)"
+    Details: "西班牙语论丛·2017, 99-109. Nov 2018"
+    Badges: ['Journal article']
 
 Skills:
   - Family: Programming
@@ -64,17 +65,17 @@ Skills:
       - Python (beginner)
   - Family: Statistics
     Items:
-      - SPSS
-      - Jamovi
-      - Jasp
+      - SPSS (experienced)
+      - Jamovi (experienced)
+      - Jasp (experienced)
       - R (beginner)
   - Family: Developer Tools
     Items:
       - Git (basic)
   - Family: Misc
     Items:
-      - MS Office
-      - Markdown
+      - MS Office (experienced)
+      - Markdown (experienced)
 
 Languages:
   - Name: Chinese
