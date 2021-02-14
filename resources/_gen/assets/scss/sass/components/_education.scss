@@ -1,6 +1,6 @@
 .education {
     &__item {
-        display: block;
+        margin-bottom: 1.0rem;
         @include avoid-break;
     }
     
@@ -8,7 +8,7 @@
         display: block;
         text-align: right;
         margin-top: 0.5rem;
-        margin-bottom: 0.5rem;
+        margin-bottom: 1.0rem;
     }
 
     &__badge {
