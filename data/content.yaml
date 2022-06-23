@@ -11,9 +11,17 @@ Contacts:
   - Icon: fas fa-map-marker-alt
     Info: Spain
 
-Profile: Gang Yao is a four-year fully-funded (by China Scholarship Council) PhD student at the University of Murcia (Spain), and a member of the Spanish Association for Corpus Linguistics (AELINCO). Currently he is doing a research stay at the Universitat Politècnica de València (Spain). His research interests include corpus linguistics, Spanish as a Foreign Language, and academic writing.
+Profile: Gang Yao obtained his PhD (funded by China Scholarship Council) in Applied Linguistics from the University of Murcia (Spain). He is a member of the Spanish Association for Corpus Linguistics (AELINCO). His research interests include corpus linguistics, Spanish as a Foreign Language, and academic discourse. His doctoral thesis is about a contrastive corpus-based analysis on metadiscourse use in Spanish academic writing.
 
 Experience:
+  - Employer: Universidad de Murcia
+    Place: Murcia, Spain
+    Positions:
+      - Title: PhD in Applied Linguistics
+        Date: Oct 2017 - Feb 2022
+        Details:
+          - "Outstanding thesis (Cum Laude)"
+        #Badges: ['Python', 'Django', 'OOP', 'Javascript', 'HTML', 'CSS', 'Agile']
   - Employer: Shanghai International Studies University
     Place: Shanghai, China
     Positions:
@@ -41,6 +49,24 @@ Experience:
 
         
 Education:
+  - Course: "Metadiscourse use in Spanish academic writing: Exploring the interface of nativeness and expertise"
+    #Place: Ibérica, 12(1), 148-153. Jun 2020
+    #Date: Jun 2020
+    Details: Universidad de Murcia. Feb 2021
+    Badges: ['Unpublished thesis']
+
+  - Course: "名词短语可及性等级理论在西班牙语关系从句中的实证研究"
+    #Place: Ibérica, 12(1), 148-153. Jun 2020
+    #Date: Jun 2020
+    Details: 西班牙语论丛·2018-2019, 218-236. Feb 2021
+    Badges: ['Journal article']
+
+  - Course: "Book review of Corpus analysis in different genres: Academic discourse and learner corpora"
+    #Place: Ibérica, 12(1), 148-153. Jun 2020
+    #Date: Jun 2020
+    Details: Ibérica, 40, 274–278. Jul 2020
+    Badges: ['Journal article']
+
   - Course: "Book review of Specialised English: New Directions in ESP and EAP Research and Practice"
     #Place: Language Value, 12(1), 148-153. Jun 2020
     #Date: Jun 2020
@@ -58,6 +84,40 @@ Education:
 #    Date: Aug 2011 - Jun 2015
     Details: "西班牙语论丛·2017, 99-109. Nov 2018"
     Badges: ['Journal article']
+
+Employment:
+  - Employer: Beijing Foreign Studies University
+    Place: Beijing, China
+    Positions:
+      - Title: Lecturer in Spanish
+        Date: Aug 2022 - Present
+        Details:
+          - "Teach courses such as Modern Spanish, Extensive reading, Spanish conversation."
+        #Badges: ['Python', 'Django', 'OOP', 'Javascript', 'HTML', 'CSS', 'Agile']
+  - Employer: Shanghai International Studies University
+    Place: Shanghai, China
+    Positions:
+      - Title: MA in Spanish Language & Literature
+        Date: Sep 2015 - Jun 2018
+        Details:
+          - "GPA: 3.83/4.0"
+        #Badges: ['Python', 'Django', 'OOP', 'Javascript', 'HTML', 'CSS', 'Agile']
+  - Employer: Universitat Pompeu Fabra
+    Place: Barcelona, Spain
+    Positions:
+      - Title: MA in Theoretical & Applied Linguistics
+        Date: Sep 2016 - Jul 2017
+        Details:
+          - "GPA: 8.40/10.0"
+        #Badges: ['Python', 'HTML', 'CSS', 'C#/Unity']
+  - Employer: Heilongjiang University
+    Place: Harbin, China
+    Positions:
+      - Title: BA in Spanish Language & Literature
+        Date: Aug 2011 - Jun 2015
+        Details:
+          - "GPA: 9.052/10.0 (Honors degree)"
+        #Badges: ['Python', 'MATLAB', 'Data Processing', 'Paradigm Design']
 
 Skills:
   - Family: Programming
